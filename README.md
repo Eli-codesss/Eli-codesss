@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @Eli-codesss
-- 👀 I’m interested in mobile app development
-- 🌱 I’m currently learning java and C++
-- 💞️ I’m looking to collaborate on projects
+- Front-end developer in the making
+- Currently learning JavaScript
 - 📫 How to reach me: elikpliyaa@gmail.com
 
 
